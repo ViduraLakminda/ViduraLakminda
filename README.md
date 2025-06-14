@@ -29,7 +29,7 @@
 
 ## 📫 Connect with Me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vidura-lakminda-9627b3351)
-- ✉️ Email: *yourname@email.com*  
+- ✉️ Email: *hemachandrab2022@gmail.com*  
 - 🛠️ [Fiverr Services Coming Soon!]
 
 ---
