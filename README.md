@@ -12,12 +12,6 @@
 
 ---
 
-## 🛠️ Projects on GitHub:
-- 🔗 [**Pizzzamart**](https://github.com/ViduraLakminda/pizzzamart.git) – Online pizza order website using HTML, CSS, and PHP
-- 🔗 [**My First Portfolio**](https://github.com/ViduraLakminda/my_first_portfolio..git) – A clean, personal portfolio site
-- 🔗 [**Blog Submission Form**](https://github.com/ViduraLakminda) – Custom PHP article form with validation and image upload
-
----
 
 ## 📌 Goals:
 - 🔨 Build real-world PHP projects
@@ -26,11 +20,6 @@
 - 🎯 Get freelance opportunities on Fiverr
 
 ---
-
-## 📫 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vidura-lakminda-9627b3351)
-- ✉️ Email: *hemachandrab2022@gmail.com*  
-- 🛠️ [Fiverr Services Coming Soon!]
 
 ---
 
